@@ -66,6 +66,6 @@ Used DAX measures and calculated columns to generate advanced insights and dynam
 
 Successfully built an interactive and visually engaging Power BI dashboard that provided meaningful insights into football performance statistics across Europe’s top five leagues during the 2022–23 season.
 
-<img width="100%" src="./TOP 5 LEAGUE.jpg">
+<img width="100%" src="https://github.com/ATHULRAJ36/European-Top-5-League-Stats-2022-23/blob/main/EUROPEAN%20TOP%205%20LEAGUES.png">
 
 ---
