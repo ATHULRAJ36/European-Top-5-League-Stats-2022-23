@@ -62,7 +62,7 @@ Used DAX measures and calculated columns to generate advanced insights and dynam
 
 ---
 
-### 5. Final Outcome
+### 5. Outcome
 
 Successfully built an interactive and visually engaging Power BI dashboard that provided meaningful insights into football performance statistics across Europe’s top five leagues during the 2022–23 season.
 
