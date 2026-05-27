@@ -69,10 +69,3 @@ Successfully built an interactive and visually engaging Power BI dashboard that 
 <img width="100%" src="./TOP 5 LEAGUE.jpg">
 
 ---
-
-## Upload Image
-
-Place your image inside the same GitHub repository folder and use:
-
-```md
-<img width="100%" src="./TOP 5 LEAGUE.jpg">
